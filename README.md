@@ -91,16 +91,16 @@ npm start
 ```
 🎯 Learning Outcomes
 
--Implemented JWT-based authentication in Spring Boot
--Built secure REST APIs with role-based access
--Integrated frontend and backend using REST APIs
--Designed analytics-driven features
--Dockerized a production-ready backend
--Understood real-world URL routing and redirection strategies
+* Implemented JWT-based authentication in Spring Boot
+* Built secure REST APIs with role-based access
+* Integrated frontend and backend using REST APIs
+* Designed analytics-driven features
+* Dockerized a production-ready backend
+* Understood real-world URL routing and redirection strategies
 
 📌 Future Improvements
--Rate limiting for URL creation
--Expiry dates for short URLs
--Redis caching for faster redirects
--Advanced analytics dashboards
--Custom domain support per user
+* Rate limiting for URL creation
+* Expiry dates for short URLs
+* Redis caching for faster redirects
+* Advanced analytics dashboards
+* Custom domain support per user
